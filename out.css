@@ -1,0 +1,60 @@
+body{
+    background: #928f8f;
+}
+
+form
+{
+    background-color: rgb(150, 157, 6);
+    width: 500px;
+    margin: auto;
+    border: 15px solid whitesmoke;  
+}
+fieldset
+{
+    border-radius: 7px;
+}
+input,select,textarea
+{
+    margin: 8PX;
+   border: 0.5px solid rgb(228, 208, 172);
+   border-radius: 5px;
+   width: 300px;
+   padding: 9px;
+   
+}
+div
+{
+    
+    border: 3px solid wheat;
+    border-radius: 5px;
+    background-color: rgb(208, 203, 58);
+    margin: auto;
+    margin-bottom: 2px;
+    padding: 4px;
+    width: 450px;
+
+}
+button
+{
+    border: 1px solid;
+    border-radius: 15px;
+    background-color: rgb(46, 45, 45);
+    color: aliceblue;
+    padding: 10px;
+    margin-left: 200px;
+    margin-top : 7px;
+    margin-bottom : 7px;
+    
+}
+.fa-cc-visa
+{
+    color: rgb(57, 57, 178);
+}
+.fa-cc-amex
+{
+    color: rgb(49, 109, 170);
+}
+.fa-cc-mastercard
+{
+    color: red;
+}
